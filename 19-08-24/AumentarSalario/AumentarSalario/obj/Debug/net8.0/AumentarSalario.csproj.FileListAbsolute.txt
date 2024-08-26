@@ -1,0 +1,14 @@
+C:\Users\solie\OneDrive\Documentos\II.Semestre\Metodologia\MetyProgEst\AumentarSalario\AumentarSalario\bin\Debug\net8.0\AumentarSalario.exe
+C:\Users\solie\OneDrive\Documentos\II.Semestre\Metodologia\MetyProgEst\AumentarSalario\AumentarSalario\bin\Debug\net8.0\AumentarSalario.deps.json
+C:\Users\solie\OneDrive\Documentos\II.Semestre\Metodologia\MetyProgEst\AumentarSalario\AumentarSalario\bin\Debug\net8.0\AumentarSalario.runtimeconfig.json
+C:\Users\solie\OneDrive\Documentos\II.Semestre\Metodologia\MetyProgEst\AumentarSalario\AumentarSalario\bin\Debug\net8.0\AumentarSalario.dll
+C:\Users\solie\OneDrive\Documentos\II.Semestre\Metodologia\MetyProgEst\AumentarSalario\AumentarSalario\bin\Debug\net8.0\AumentarSalario.pdb
+C:\Users\solie\OneDrive\Documentos\II.Semestre\Metodologia\MetyProgEst\AumentarSalario\AumentarSalario\obj\Debug\net8.0\AumentarSalario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\solie\OneDrive\Documentos\II.Semestre\Metodologia\MetyProgEst\AumentarSalario\AumentarSalario\obj\Debug\net8.0\AumentarSalario.AssemblyInfoInputs.cache
+C:\Users\solie\OneDrive\Documentos\II.Semestre\Metodologia\MetyProgEst\AumentarSalario\AumentarSalario\obj\Debug\net8.0\AumentarSalario.AssemblyInfo.cs
+C:\Users\solie\OneDrive\Documentos\II.Semestre\Metodologia\MetyProgEst\AumentarSalario\AumentarSalario\obj\Debug\net8.0\AumentarSalario.csproj.CoreCompileInputs.cache
+C:\Users\solie\OneDrive\Documentos\II.Semestre\Metodologia\MetyProgEst\AumentarSalario\AumentarSalario\obj\Debug\net8.0\AumentarSalario.dll
+C:\Users\solie\OneDrive\Documentos\II.Semestre\Metodologia\MetyProgEst\AumentarSalario\AumentarSalario\obj\Debug\net8.0\refint\AumentarSalario.dll
+C:\Users\solie\OneDrive\Documentos\II.Semestre\Metodologia\MetyProgEst\AumentarSalario\AumentarSalario\obj\Debug\net8.0\AumentarSalario.pdb
+C:\Users\solie\OneDrive\Documentos\II.Semestre\Metodologia\MetyProgEst\AumentarSalario\AumentarSalario\obj\Debug\net8.0\AumentarSalario.genruntimeconfig.cache
+C:\Users\solie\OneDrive\Documentos\II.Semestre\Metodologia\MetyProgEst\AumentarSalario\AumentarSalario\obj\Debug\net8.0\ref\AumentarSalario.dll

@@ -1,0 +1,14 @@
+C:\Users\solie\OneDrive\Documentos\II.Semestre\Metodologia\MetyProgEst\AreaCirculo\AreaCirculo\obj\Debug\net8.0\AreaCirculo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\solie\OneDrive\Documentos\II.Semestre\Metodologia\MetyProgEst\AreaCirculo\AreaCirculo\obj\Debug\net8.0\AreaCirculo.AssemblyInfoInputs.cache
+C:\Users\solie\OneDrive\Documentos\II.Semestre\Metodologia\MetyProgEst\AreaCirculo\AreaCirculo\obj\Debug\net8.0\AreaCirculo.AssemblyInfo.cs
+C:\Users\solie\OneDrive\Documentos\II.Semestre\Metodologia\MetyProgEst\AreaCirculo\AreaCirculo\obj\Debug\net8.0\AreaCirculo.csproj.CoreCompileInputs.cache
+C:\Users\solie\OneDrive\Documentos\II.Semestre\Metodologia\MetyProgEst\AreaCirculo\AreaCirculo\bin\Debug\net8.0\AreaCirculo.exe
+C:\Users\solie\OneDrive\Documentos\II.Semestre\Metodologia\MetyProgEst\AreaCirculo\AreaCirculo\bin\Debug\net8.0\AreaCirculo.deps.json
+C:\Users\solie\OneDrive\Documentos\II.Semestre\Metodologia\MetyProgEst\AreaCirculo\AreaCirculo\bin\Debug\net8.0\AreaCirculo.runtimeconfig.json
+C:\Users\solie\OneDrive\Documentos\II.Semestre\Metodologia\MetyProgEst\AreaCirculo\AreaCirculo\bin\Debug\net8.0\AreaCirculo.dll
+C:\Users\solie\OneDrive\Documentos\II.Semestre\Metodologia\MetyProgEst\AreaCirculo\AreaCirculo\bin\Debug\net8.0\AreaCirculo.pdb
+C:\Users\solie\OneDrive\Documentos\II.Semestre\Metodologia\MetyProgEst\AreaCirculo\AreaCirculo\obj\Debug\net8.0\AreaCirculo.dll
+C:\Users\solie\OneDrive\Documentos\II.Semestre\Metodologia\MetyProgEst\AreaCirculo\AreaCirculo\obj\Debug\net8.0\refint\AreaCirculo.dll
+C:\Users\solie\OneDrive\Documentos\II.Semestre\Metodologia\MetyProgEst\AreaCirculo\AreaCirculo\obj\Debug\net8.0\AreaCirculo.pdb
+C:\Users\solie\OneDrive\Documentos\II.Semestre\Metodologia\MetyProgEst\AreaCirculo\AreaCirculo\obj\Debug\net8.0\AreaCirculo.genruntimeconfig.cache
+C:\Users\solie\OneDrive\Documentos\II.Semestre\Metodologia\MetyProgEst\AreaCirculo\AreaCirculo\obj\Debug\net8.0\ref\AreaCirculo.dll
